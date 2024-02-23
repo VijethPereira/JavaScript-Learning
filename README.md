@@ -1,2 +1,2 @@
 # JavaScript-Learning
-demo repo to save the learning in git
+demo repo to save the javascript programming learning in git
