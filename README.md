@@ -1,17 +1,30 @@
 # JavaScript-Learning
 demo repo to save the javascript programming learning in git
 
-# lecture_1
-Variable Rules
+# comments
+// <=single line comment or /* .... */ <= multiple line
 
-Variable names are case sensitive;
-“a” & “A” is different.
-Only letters, digits, underscore( _ ) and $ is allowed. (not even space)
-Only a letter, underscore( _ ) or $ should be 1st character.
-Reserved words cannot be variable names.
+# operators
++,-,*,/ => Arithmetic operators
+% => modulus(remainder)
+** => exponentation a^b
 
-# let, const & var
+# unary operators
+increment => ++
+decrement => --
 
-var : Variable can be re-declared & updated. A global scope variable.
-let : Variable cannot be re-declared but can be updated. A block scope variable.
-const : Variable cannot be re-declared or updated. A block scope variable.
+# assignment operator
+=, +=, -=, *=, %=, **= => one example a+=b this is a=a+b
+
+# comparsion operators
+==, !=, >, >=, <, <=, ===(equal to and type), !==(not equal to and type)
+
+# logical operators
+&&, ||, !
+
+
+## conditional statments
+1. IF statement
+2. IF ELSE
+3. ELSE IF
+4. switch
